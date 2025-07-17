@@ -1,5 +1,8 @@
 # Ayoub Chess – CS50 Final Project
 
+## GitHub Repository
+https://github.com/AYOUB-CODING1/ayoub_chess
+
 ## Description
 This is my final project for CS50x 2025.
 
