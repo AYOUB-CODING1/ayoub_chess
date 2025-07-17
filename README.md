@@ -14,6 +14,6 @@ I created a chess game for two players using Python and Pygame and chess. The ga
 
 
 ## Author
-Ayoub X  
+Ayoub  
 GitHub: AYOUB-CODING1 
 City: Casablanca, Morocco
