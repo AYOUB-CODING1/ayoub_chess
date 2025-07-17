@@ -35,3 +35,4 @@ The game features a custom graphical user interface (GUI), legal move validation
 2. Install required packages:
    `bash
    pip install pygame
+   pip install chess
